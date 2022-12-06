@@ -1,0 +1,6 @@
+c:\users\user\Desktop\semester 2 ft\PieOrder\PieOrder\bin\Debug\PieOrder.exe.config
+c:\users\user\Desktop\semester 2 ft\PieOrder\PieOrder\bin\Debug\PieOrder.exe
+c:\users\user\Desktop\semester 2 ft\PieOrder\PieOrder\bin\Debug\PieOrder.pdb
+c:\users\user\Desktop\semester 2 ft\PieOrder\PieOrder\obj\Debug\PieOrder.csprojResolveAssemblyReference.cache
+c:\users\user\Desktop\semester 2 ft\PieOrder\PieOrder\obj\Debug\PieOrder.exe
+c:\users\user\Desktop\semester 2 ft\PieOrder\PieOrder\obj\Debug\PieOrder.pdb
